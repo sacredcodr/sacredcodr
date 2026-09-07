@@ -1,16 +1,28 @@
-## Hi there 👋
+<a href="https://www.pinterest.com/pin/miyamoto-musashi--922182461174193570/"><img align="right" src="https://i.pinimg.com/originals/f8/d1/ae/f8d1ae6fc5a893dfd652fc80c8cba9b0.jpg" width="180" alt="Musashi resting beneath a pine tree, from Vagabond" title="Vagabond — Takehiko Inoue" /></a>
 
-<!--
-**sacredcodr/sacredcodr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2600&pause=1600&color=9DAFC2&width=440&height=42&lines=hey%2C+i%27m+yugi.;aka+sacred.+just+a+coder+%3A%29" width="440" alt="hey, i'm yugi. aka sacred. just a coder :)" />
 
-Here are some ideas to get you started:
+i write native software and reverse engineering tools.<br />
+i'm also interested in using AI for binary analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```ini
+[working on]
+  systems     = windows internals, native apps
+  reversing   = binary analysis, software protection
+  learning    = compilers, instrumentation, deeper C++
+```
+
+<br clear="both" />
+
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts&theme=dark" height="38" alt="C++, C, Python, JavaScript, TypeScript" /></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Luau-1a1b27?style=flat-square&logo=luau&logoColor=white" height="23" alt="Luau" />
+</p>
+
+<details>
+<summary>a bit more</summary>
+
+performance and software security are a big part of what i work on. i'm learning more about machine learning for program analysis, and how to structure larger native applications.
+
+</details>
