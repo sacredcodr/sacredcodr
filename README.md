@@ -5,7 +5,7 @@
 i write native software and reverse-engineering tools.<br />
 i'm also interested in using AI for binary analysis.
 
-[portfolio](https://sacredcodr.github.io/) ? [linkedin](https://www.linkedin.com/in/yogesh-pachl-2646543b8/)
+[portfolio](https://sacredcodr.github.io/) / [linkedin](https://www.linkedin.com/in/yogesh-pachl-2646543b8/)
 
 currently learning: windows internals, compilers, and instrumentation.
 
