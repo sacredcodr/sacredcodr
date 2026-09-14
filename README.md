@@ -2,14 +2,16 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2600&pause=1600&color=9DAFC2&width=440&height=42&lines=hey%2C+i%27m+yugi.;aka+sacred.+just+a+coder+%3A%29" width="440" alt="hey, i'm yugi. aka sacred. just a coder :)" />
 
-i write native software and reverse engineering tools.<br />
+i write native software and reverse-engineering tools.<br />
 i'm also interested in using AI for binary analysis.
+
+[personal site](https://sacredcodr.github.io/) · [linkedin](https://www.linkedin.com/in/yogesh-pachl-2646543b8/)
 
 ```ini
 [working on]
-  systems     = windows internals, native apps
-  reversing   = binary analysis, software protection
-  learning    = compilers, instrumentation, deeper C++
+systems     = windows internals, native apps
+reversing   = binary analysis, software protection
+learning    = compilers, instrumentation, deeper C++
 ```
 
 <br clear="both" />
@@ -20,9 +22,6 @@ i'm also interested in using AI for binary analysis.
   <img src="https://img.shields.io/badge/Luau-1a1b27?style=flat-square&logo=luau&logoColor=white" height="23" alt="Luau" />
 </p>
 
-<details>
-<summary>a bit more</summary>
-
-performance and software security are a big part of what i work on. i'm learning more about machine learning for program analysis, and how to structure larger native applications.
-
-</details>
+performance and software security are a big part of what i work on. right now,
+i'm learning more about machine learning for program analysis and how to
+structure larger native applications.
