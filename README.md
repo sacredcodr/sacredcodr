@@ -7,12 +7,7 @@ i'm also interested in using AI for binary analysis.
 
 [personal site](https://sacredcodr.github.io/) · [linkedin](https://www.linkedin.com/in/yogesh-pachl-2646543b8/)
 
-```ini
-[working on]
-systems     = windows internals, native apps
-reversing   = binary analysis, software protection
-learning    = compilers, instrumentation, deeper C++
-```
+currently learning: windows internals, compilers, and instrumentation.
 
 <br clear="both" />
 
@@ -21,7 +16,3 @@ learning    = compilers, instrumentation, deeper C++
   &nbsp;
   <img src="https://img.shields.io/badge/Luau-1a1b27?style=flat-square&logo=luau&logoColor=white" height="23" alt="Luau" />
 </p>
-
-performance and software security are a big part of what i work on. right now,
-i'm learning more about machine learning for program analysis and how to
-structure larger native applications.
